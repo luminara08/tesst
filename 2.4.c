@@ -6,7 +6,8 @@ int main(void)
 {
   char line[] = "abcdefg  1234567";
   char test[] = "abc 123";
-
+  
+  printf("Hello! o~o");
   printf("%s", squeeze(line, test));
 }
 
