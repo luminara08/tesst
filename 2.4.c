@@ -9,6 +9,7 @@ int main(void)
   
   printf("Hello! o~o");
   printf("%s", squeeze(line, test));
+  printf("hello again, me friend");
 }
 
 char *squeeze(char s1[], char s2[])
